@@ -6,7 +6,7 @@ Installation,Live DEMO, and tutorial here : http://teknosains.com/i/simple-crud-
 
 	npm install
 
-## Configuration
+## Configuration (database)
 app.js
 
         host: 'localhost',
@@ -17,3 +17,4 @@ app.js
 
 
 	
+You're gonna need to create a DB named 'nodejs' and import customer.sql
