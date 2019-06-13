@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "ejs": "^1.0.0",
+    "ejs": "^1.0.1",
     "express": "3.5.1",
     "express-myconnection": "1.0.4",
     "jade": "*",
