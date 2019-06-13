@@ -46,7 +46,8 @@ INSERT INTO `customer` (`id`, `name`, `address`, `email`, `phone`) VALUES
 (5, 'Ujang', 'Jl. ribut no 90 A', 'ujang@gmail.com', '07846352532'),
 (6, 'Memet', 'Blok cepu no 14. Bandung', 'memet@ongkek.com', '038372636232'),
 (9, 'Agung', 'Jl st Petersburg no 34. Russia', 'agung@yahoo.com', '038373273262'),
-(10, 'Jhon Taylor', 'St paris A . Block 43. paris', 'jtaylor@yahoo.com', '039223232323');
+(10, 'Jhon Taylor', 'St paris A . Block 43. paris', 'jtaylor@yahoo.com', '039223232323'),
+(11, 'test testy', 'St paris A . Block 43. paris', 'jtaylor@yahoo.com', '039223232323');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
